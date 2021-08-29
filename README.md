@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Darshil Jain
 - 👀 I’m interested in programing and management works
-- 🌱 I’m currently learning Computer Science Engineering 
-- 💞️ I’m looking to collaborate on Flask devlpoment
+- 🌱 I’m currently learning Computer Science with specilisation in AI Engineering 
+- 💞️ I’m looking to collaborate on nodejs - express framework devlpoment
 - 📫 How to reach me pihujain9898@gmail.com
 
 <!---
