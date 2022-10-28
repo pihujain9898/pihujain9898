@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Darshil Jain
 - 👀 I’m interested in programing(full stack web devplopement along with desgining and python projects) and management works
 - 🌱 I’m currently learning Computer Science with specilisation in AI Engineering 
-- 💞️ I’m looking to collaborate on nodejs - express, python - flask framework or python project along with data analysis.
+- 💞️ I’m looking to collaborate on PHP Laravel, Python - Flask framework or python project along with data analysis.
 - 📫 How to reach me pihujain9898@gmail.com, 2020pgicadarshil10@poornima.org
 
 <!---
